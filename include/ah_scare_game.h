@@ -20,7 +20,7 @@ public:
 
     [[nodiscard]] bn::string<16> title() const final
     {
-        return "TEST TITLE!";
+        return "Button!";
     }
 
     [[nodiscard]] int total_frames() const final
